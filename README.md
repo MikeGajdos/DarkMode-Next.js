@@ -1,4 +1,4 @@
-# Example app with styled-components
+# Dark Mode app with styled-components and Next.js
 
 Just a little exmaple of implementing dark mode functionality in Next.js with styled-components using Rob Morieson's approach with CSS variables
 
